@@ -1,1 +1,1 @@
-# SNN_Basic
+# Spiking Neural Network tutorial with Norse
